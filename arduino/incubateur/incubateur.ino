@@ -1,13 +1,13 @@
-#define BLYNK_TEMPLATE_ID   "TMPL118903"
+#define BLYNK_TEMPLATE_ID   "Txxxxxxx"
 #define BLYNK_TEMPLATE_NAME "Incubateur Neonatal"
-#define BLYNK_AUTH_TOKEN    "m985MMlsAOy9byJulJ3_IAC2_NXNOvgq"
+#define BLYNK_AUTH_TOKEN    "votre_aut"
 
 #include <WiFi.h>
 #include <DHT.h>
 #include <BlynkSimpleEsp32.h>
 
-#define WIFI_SSID     "Galaxy A04e 4722"
-#define WIFI_PASSWORD "adoption"
+#define WIFI_SSID     "votre ssid"
+#define WIFI_PASSWORD "mot de passe"
 
 #define DHT_PIN       4
 #define RELAIS1_PIN   5
